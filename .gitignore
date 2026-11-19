@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+.env
+*.env
+*.zip
+*.log
+.DS_Store
+*.key
+*.pem
